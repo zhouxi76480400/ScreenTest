@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">熒幕測試程式</string>
+    <string name="select_rgb_value">請選擇要測試顏色的RGB值:</string>
+    <string name="r_value">R值</string>
+    <string name="g_value">G值</string>
+    <string name="b_value">B值</string>
+    <string name="next">顯示</string>
+</resources>
